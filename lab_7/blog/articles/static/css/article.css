@@ -1,0 +1,85 @@
+.archive h1 {
+    background: #000000;
+    font-family: Courier New, monospace;
+    color: #ffffff;
+}
+a{
+    color:#ff8d0a;
+}
+.archive {
+    width: 960px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article {
+    width: 960px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-title a {
+    color: #ffffff;
+}
+
+.article-author { 
+    width: 50%; 
+    float: left;
+}    
+
+.article-created-date { 
+    text-align: right;
+}
+    
+.article h1 {
+    width: 960px; 
+    margin-left: auto;
+    margin-right: auto;
+    background: #1abc9c;
+    Courier New, monospace
+    color: #ffffff;
+}
+
+.header img {
+    display: block;
+    height: 400px;
+    width: 400px; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+    
+body {
+    background: #000000;
+    font-family: Courier New, monospace;
+    color: #ffffff
+    ;
+}
+table {
+    border-collapse: collapse;
+}
+p, h4 {
+    width: 960px; 
+    font-size: 20px; 
+    margin-bottom: 0;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4 {
+    width: 960px;
+    font-family: Courier New, monospace;
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul, ol {
+    margin: 0;
+}
+table tr td {
+    padding: 5px;
+}
+table {
+	width: 100%;
+}
+
